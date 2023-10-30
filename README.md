@@ -1,8 +1,8 @@
 Java Shopping
 --------------
 
-This java console application for E-Commerce has the following sections:
-------------------------------------------------------------------------
+Java console application has the following sections:
+---------------------------------------------------
     1. Login - Existing User and Admin
     2. Register - New User
     3. Home - User
