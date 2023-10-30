@@ -16,8 +16,6 @@ Java console application has the following sections:
         * View Order 
         * Logout
 
--> Java for coding 
--> 'CSV' file for storing and retrieving data.
 
 Files used for each sections:
 -----------------------------
